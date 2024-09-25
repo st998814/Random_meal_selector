@@ -1,0 +1,26 @@
+{
+    "18 street": [
+        {
+            "name": "stir fry",
+            "price": "24"
+        }
+    ],
+    "subway": [
+        {
+            "name": "classic chicken ",
+            "price": "8.95"
+        }
+    ],
+    "happy bowl": [
+        {
+            "name": "classic rice noodle",
+            "price": "24.9"
+        }
+    ],
+    "golden bowl": [
+        {
+            "name": "classic beef noodle",
+            "price": "17.8"
+        }
+    ]
+}
