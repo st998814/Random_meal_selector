@@ -5,6 +5,7 @@ A simple Python program to help people choose restaurant for meal.
 - Randomly selects restaurant and meal !
 - Design for no regrets! (Unless re-execute the program).
 - More features coming soon.
+- Work with json file.
 
 
 ## Acknowledgments
